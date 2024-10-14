@@ -6,3 +6,8 @@ F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Windows
 F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\fr-CD\WindowsFormsApplication2.resources.dll
+F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr-CD.resources
+F:\projet c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\fr-CD\WindowsFormsApplication2.resources.dll
