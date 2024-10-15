@@ -24,13 +24,34 @@ namespace WindowsFormsApplication2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //declaration variable
             Random al = new Random();
-            int en = al.Next(100);
-            int entier = al.Next(0, 100);
+            decimal en = al.Next(100);
             decimal nb = nbr.Value;
-            Console.WriteLine(en);
-            Console.ReadLine();
-            label2.Text = en.ToString();
+
+            for(int i=1;i>=5;i++){
+                while (en != nb){
+                    label3.Text = "null";
+                    label2.Text = "null";
+                    nb = nbr.Value;
+                }
+                if (en == nb) {
+                    label3.Text = en.ToString();
+                    label2.Text = en.ToString();
+            
+                }
+                else{
+                    //for(int i=1;i>=5;i++){
+
+                    //}
+                    
+                }
+                
+     
+            }
+            
+            //afficher
+            label2.Text = "vous aves fini";
 
         }
     }
