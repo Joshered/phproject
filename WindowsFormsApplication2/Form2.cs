@@ -21,5 +21,17 @@ namespace WindowsFormsApplication2
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Random al = new Random();
+            int en = al.Next(100);
+            int entier = al.Next(0, 100);
+            decimal nb = nbr.Value;
+            Console.WriteLine(en);
+            Console.ReadLine();
+            label2.Text = en.ToString();
+
+        }
     }
 }
